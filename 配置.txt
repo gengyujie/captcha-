@@ -1,0 +1,16 @@
+numpy            1.16
+matplotlib       2.2.3
+tensorflow       1.13.1
+tensorflow gpu   1.13.1
+pillow           8.2.0
+python           3.6
+
+
+CUDA 版本：
+执行命令 nvcc --version
+    Cuda compilation tools, release 11.1, V11.1.74
+
+安装cuDNN
+https://blog.csdn.net/jhsignal/article/details/111401628
+
+
